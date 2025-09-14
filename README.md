@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @amlelephant
 - 👀 I’m interested in Python, C++, Software Engineering
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : aiden.m.lowery@gmail.com
 
 <!---
 amlelephant/amlelephant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
