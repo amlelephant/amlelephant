@@ -5,7 +5,7 @@ Hello! My name is Aiden and I am an undergraduate student at UT Austin for Compu
 | Name | Description |
 | --- | --- |
 | Rubik's Cube move detector | This project is a high speed computer vision project that is meant to watch a live solve of a Rubik's cube and give real move lists and statistics to the user. Additionally it sets the groundwork for the competitive platform that me and my partner are currently building |
-| Financial Trading Platform | This project encompasses my interest in financial trading and simulation through python. With this app I built a custom lightweight back testing engine that allows me to quickly and accurately test my proposed trading strategies. Right now this repository has statistical arbitrage and mean reversion strategies implemented. |
+| strategy-lab | This project encompasses my interest in financial trading and simulation through python. With this app I built a custom lightweight back testing engine that allows me to quickly and accurately test my proposed trading strategies. Included in this repository are my personally developed trading algorithms focusing on developing a strong base in quantitative based trading. |
 
 ## Tech Stack
 
